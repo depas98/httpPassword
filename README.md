@@ -9,6 +9,8 @@ curl http://localhost:8042/hash/1
 
 curl http://localhost:8042/stats
 
+curl http://localhost:8042/close
+
 ### Installation
 go get github.com/depas98/httpPassword
 
