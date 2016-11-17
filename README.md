@@ -1,5 +1,5 @@
 # httpPassword
-To keep it simple all the files are in package main.  The command file is "httpPassword.go".   To test the handlers there is a test file "httpPassword_test.go".
+To keep it simple all the files are in package main.  The command file is "httpPassword.go".  To shutdown the Http sever use the link: http://localhost:8042/close.  Run "httpPassword_test.go" to test the handlers.
 
 Valid Urls:
 
