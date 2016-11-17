@@ -7,7 +7,7 @@ curl —data "password=angryMonkey" http://localhost:8042/hash
 
 curl http://localhost:8042/hash/1
 
-curl http://localhost:8042/Stat
+curl http://localhost:8042/stats
 
 ### Installation
 go get github.com/depas98/httpPassword
